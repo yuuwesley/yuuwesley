@@ -2,7 +2,7 @@
 
 - 🔭 Atuando como QA há 3 anos
 - 🌱 Aperfeiçoando: Automação de testes com Selenium e aprendendo sobre práticas de CI/CD.
-- ⚡ Fã viciado de Naruto e Taeyeon.
+- ⚡ 
 
 ![yuuwesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuuwesley&show_icons=true&theme=tokyonight)
 
