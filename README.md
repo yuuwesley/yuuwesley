@@ -1,8 +1,8 @@
 ## Opa, Sou Wesley!
 
-- 🔭 Atuando como QA há 3 anos
-- 🌱 Aperfeiçoando: Automação de testes com Selenium e aprendendo sobre práticas de CI/CD.
-- ⚡ 
+- 🔭 atuando como um QA há quase 3 anos. 
+- 🌱 Aperfeiçoando: Automação de testes com Selenium, Playwright e Cypress.
+- ⚡ aprendendo também sobre CI/CD.
 
 ![yuuwesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuuwesley&show_icons=true&theme=tokyonight)
 
