@@ -1,4 +1,4 @@
-## Opa, Sou Wesley!
+## Oi, Sou Wesley!
 
 - 🔭 Atuando como um QA há quase 3 anos. 
 - 🌱 Aperfeiçoando: Automação de testes com Selenium, Playwright e Cypress.
